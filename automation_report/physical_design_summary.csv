@@ -1,0 +1,6 @@
+Stage,Chip Area (µm_),Core Area (µm_),Total Instances Area (µm_),Placed Cell Area (µm_),Available Free Area (µm_),Final Placement Area (µm_),Die Area (µm_),Design Area (µm_),Utilization (%)
+Synthesis,2623.7664,,,,,,,2624,100
+Floorplan,,6349.84,2623.766,,,,,2624,41
+Placement,,6349.84,2623.766,2944.3451,6349.84,2944.35,,2630,41
+CTS,,,,,,,,2870,45
+Route,,,,,,,7223.3001,2870,45

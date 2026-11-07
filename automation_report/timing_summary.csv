@@ -1,0 +1,6 @@
+Stage,Setup Data Required Time (ns),Setup Data Arrival Time (ns),Setup Slack (ns),Setup WNS (ns),Setup TNS (ns),Hold Data Required Time (ns),Hold Data Arrival Time (ns),Hold Slack (ns),Hold WHS (ns),Hold TNS (ns)
+Synthesis,9.91,-2.18,7.73,7.7323,0,-0.05,-0.36,0.42,0.4158,0
+Floorplan,9.91,-2.18,7.73,7.7323,0,-0.05,-0.36,0.42,0.4158,0
+Placement,9.9,-1.79,8.11,8.112,0,-0.05,-0.37,0.42,0.4234,0
+Cts,10.22,-2.13,8.09,8.0898,0,0.27,-0.71,0.43,0.4324,0
+Route,9.9,-1.94,7.96,7.9621,0,-0.05,-0.39,0.44,0.4399,0
